@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e5ec34-6625-40f3-9719-08930fd267f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.png" beforeDir="false" />
+    <list default="true" id="39e5ec34-6625-40f3-9719-08930fd267f1" name="Default Changelist" comment="New version of the personal webpage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/intro.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/intro.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/me.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic12.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +56,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630330651347</updated>
-      <workItem from="1630330658862" duration="1782000" />
+      <workItem from="1630330658862" duration="4323000" />
     </task>
+    <task id="LOCAL-00001" summary="New version of the personal webpage">
+      <created>1630332525738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630332525738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New version of the personal webpage">
+      <created>1630332541327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630332541327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New version of the personal webpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="New version of the personal webpage" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="992" y="-648" key="Github.Dialog.Accounts.Choose" timestamp="1630332568835">
+      <screen x="172" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="992" y="-648" key="Github.Dialog.Accounts.Choose/0.0.1504.963/172.-1080.1920.1040@172.-1080.1920.1040" timestamp="1630332568835" />
+    <state x="724" y="-840" key="Vcs.Push.Dialog.v2" timestamp="1630332544909">
+      <screen x="172" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="724" y="-840" key="Vcs.Push.Dialog.v2/0.0.1504.963/172.-1080.1920.1040@172.-1080.1920.1040" timestamp="1630332544909" />
   </component>
 </project>
